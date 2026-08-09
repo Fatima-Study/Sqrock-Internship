@@ -1,0 +1,64 @@
+def generate_vishing_script(org, role, pretext, hook):
+    return f"""
+========================================
+       VISHING AWARENESS SCRIPT
+========================================
+
+Target Organization: {org}
+Caller Role: {role}
+Pretext: {pretext}
+
+OPENER:
+The caller introduces themselves as {role}.
+
+HOOK:
+{hook}
+
+RED FLAGS:
+- Legitimate staff will never ask for your password.
+- Never share OTPs or verification codes.
+- Verify the caller through official channels.
+- Do not act under pressure or urgency.
+
+AWARENESS MESSAGE:
+Stop the call and independently verify the request
+before sharing any information.
+"""
+
+
+scripts = [
+    {
+        "org": "Training Lab",
+        "role": "IT Support",
+        "pretext": "Password Reset",
+        "hook": "The caller claims that the account requires an urgent security reset."
+    },
+    {
+        "org": "Training Bank",
+        "role": "Bank Security Officer",
+        "pretext": "Suspicious Transaction",
+        "hook": "The caller claims that unusual activity was detected and asks the user to verify the account."
+    },
+    {
+        "org": "Government Training Lab",
+        "role": "Government Officer",
+        "pretext": "Document Verification",
+        "hook": "The caller claims that an important document requires immediate verification."
+    }
+]
+
+
+print("=" * 45)
+print("     VISHING AWARENESS SCRIPT GENERATOR")
+print("=" * 45)
+
+for i, script in enumerate(scripts, 1):
+    print(f"\nSCRIPT {i}")
+    print(generate_vishing_script(
+        script["org"],
+        script["role"],
+        script["pretext"],
+        script["hook"]
+    ))
+
+print("All awareness scripts generated successfully.")
