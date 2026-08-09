@@ -15,23 +15,22 @@
 
 # 📑 Table of Contents
 
-* Overview
-* Objective
-* Scope
-* Tools and Technologies
-* Methodology
-* Project Structure
-* Information Collected
-* Key Insights
-* Output
-* How to Run This Project
-* Security Relevance
-* Ethical Considerations
-* Limitations
-* Future Work
-* Conclusion
-* Author & Contact
-
+- [Overview](#overview)
+- [Objective](#objective)
+- [Scope](#scope)
+- [Tools and Technologies](#tools-and-technologies)
+- [Methodology](#methodology)
+- [Project Structure](#project-structure)
+- [Information Collected](#information-collected)
+- [Key Insights](#key-insights)
+- [Output](#output)
+- [How to Run This Project](#how-to-run-this-project)
+- [Security Relevance](#security-relevance)
+- [Ethical Considerations](#ethical-considerations)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
+- [Author & Contact](#author--contact)
 ---
 
 # 📌 Overview
@@ -117,7 +116,7 @@ The Email Harvesting Tool follows this workflow:
 ┌───────────────────────────────┐
 │ Count Total Emails Found      │
 └───────────────────────────────┘
-
+```
 ---
 
 ### Process
@@ -165,7 +164,7 @@ The collected information consisted only of **dummy email addresses created for 
 
 * Email addresses can be identified from publicly accessible webpage content.
 * Regular expressions can automate email pattern detection.
-* Python `requests` can retrieve webpage content for analysis.
+* Python requests can retrieve webpage content for analysis.
 * Duplicate email addresses can be removed during processing.
 * Email harvesting can be part of passive reconnaissance.
 * Publicly exposed contact information may increase an organization's reconnaissance footprint.
@@ -193,7 +192,7 @@ Emails Found:
 Total Emails Found: 3
 
 Email harvesting completed successfully.
-
+```
 ---
 
 # ▶️ How to Run This Project
