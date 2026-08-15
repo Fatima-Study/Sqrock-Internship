@@ -87,8 +87,8 @@ Document Security Awareness
 Day-06-Spear-Phishing/
 │
 ├── spear_phishing_template.py
-├── README.md
-└── Output.txt
+├── spear_phishing_output.txt
+└── README.md
 ```
 
 ## 🚀 How to Run
