@@ -32,7 +32,7 @@
 * [Author & Contact](#author--contact)
 
 ---
-
+<a name="overview"></a>
 # 📌 Overview
 
 The **GitHub Target Profile** is a Python-based OSINT project developed as part of **Day 5 of the Cybersecurity Internship**.
@@ -42,13 +42,13 @@ The tool collects publicly available information from a GitHub profile and prese
 The project was tested using a public GitHub profile and successfully generated a profile summary.
 
 ---
-
+<a name="objective"></a>
 # 🎯 Objective
 
 The objective of this project is to understand how publicly available GitHub information can be collected and organized using Python for basic OSINT and reconnaissance purposes.
 
 ---
-
+<a name="problem-statement"></a>
 # 📝 Problem Statement
 
 Public developer profiles can contain useful information such as names, organizations, locations, repositories, and programming languages.
@@ -56,7 +56,7 @@ Public developer profiles can contain useful information such as names, organiza
 This project provides a simple Python-based approach to collect selected publicly available GitHub profile information and organize it into a structured target profile.
 
 ---
-
+<a name="tools--technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology        | Purpose                                |
@@ -68,7 +68,7 @@ This project provides a simple Python-based approach to collect selected publicl
 | **OSINT Techniques**     | Public information gathering           |
 
 ---
-
+<a name="methodology"></a>
 # ⚙️ Methodology
 
 The tool follows these steps:
@@ -83,7 +83,7 @@ The tool follows these steps:
 8. Display the results in the Command Prompt.
 
 ---
-
+<a name="information-collected"></a>
 # 📊 Information Collected
 
 The tool collects the following publicly available information:
@@ -96,7 +96,7 @@ The tool collects the following publicly available information:
 * 📝 **Public Bio**
 
 ---
-
+<a name="project-structure"></a>
 # 📂 Project Structure
 
 The Day 5 project contains the Python source code, output evidence, project documentation, and license file.
@@ -109,7 +109,7 @@ Day-05-Target-Profile/
 └── README.md
 ```
 ---
-
+<a name="file-description"></a>
 ### 📁 File Description
 
 | File                       | Description                                                    |
@@ -120,7 +120,7 @@ Day-05-Target-Profile/
 | `LICENSE`                  | MIT License for the project                                    |
 
 ---
-
+<a name="key-insights"></a>
 # 💡 Key Insights
 
 * Public GitHub profiles can provide useful information for OSINT.
@@ -130,7 +130,7 @@ Day-05-Target-Profile/
 * OSINT information should be collected and used responsibly.
 
 ---
-
+<a name="output"></a>
 # 🖥️ Output
 
 The tool was successfully tested using a public GitHub profile.
@@ -159,7 +159,7 @@ Profile JSON saved successfully.
 ```
 
 ---
-
+<a name="how-to-run-this-project"></a>
 # ▶️ How to Run This Project
 
 ### 1. Clone the Repository
@@ -187,7 +187,7 @@ python github_target_profile.py
 The program will display the collected GitHub profile information and save the generated profile in JSON format.
 
 ---
-
+<a name="security-relevance"></a>
 # 🛡️ Security Relevance
 
 Public developer information can contribute to the reconnaissance phase of cybersecurity assessments.
@@ -195,7 +195,7 @@ Public developer information can contribute to the reconnaissance phase of cyber
 Understanding what information is publicly exposed helps security professionals identify potential information-disclosure risks and encourages users to review their public profiles carefully.
 
 ---
-
+<a name="ethical-considerations"></a>
 # 🔐 Ethical Considerations
 
 This project is developed for **educational and authorized cybersecurity purposes only**.
@@ -203,7 +203,7 @@ This project is developed for **educational and authorized cybersecurity purpose
 Only publicly available information should be collected. The tool should not be used for harassment, unauthorized targeting, credential attacks, or other malicious activities.
 
 ---
-
+<a name="limitations"></a>
 # ⚠️ Limitations
 
 * The tool only works with publicly available information.
@@ -213,7 +213,7 @@ Only publicly available information should be collected. The tool should not be 
 * The collected information should not be treated as a complete security profile.
 
 ---
-
+<a name="future-work"></a>
 # 🚀 Future Work
 
 * Add GitHub repository analysis.
@@ -224,7 +224,7 @@ Only publicly available information should be collected. The tool should not be 
 * Integrate additional public OSINT sources.
 
 ---
-
+<a name="conclusion"></a>
 # ✅ Conclusion
 
 The **GitHub Target Profile** project successfully demonstrated how Python can be used to collect and organize publicly available GitHub information.
@@ -232,7 +232,7 @@ The **GitHub Target Profile** project successfully demonstrated how Python can b
 The project provided practical experience in **OSINT, profile reconnaissance, JSON data handling, and cybersecurity information gathering**.
 
 ---
-
+<a name="author-contact"></a>
 # 👩‍💻 Author & Contact
 
 <p align="center">
