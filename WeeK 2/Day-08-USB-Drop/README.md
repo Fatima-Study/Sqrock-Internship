@@ -31,7 +31,6 @@
 - [📚 Learning Outcomes](#-learning-outcomes)
 - [📈 Conclusion](#-conclusion)
 - [👩‍💻 Author & Contact](#author-contact)
-- [📄 License](#-license)
 
 ---
 
