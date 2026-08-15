@@ -32,7 +32,7 @@
 - [🔐 Ethical & Legal Notice](#-ethical--legal-notice)
 - [📚 Learning Outcomes](#-learning-outcomes)
 - [📈 Conclusion](#-conclusion)
-- [👩‍💻 Author & Contact](#author--contact)
+- [👩‍💻 Author & Contact](#author-contact)
 
 ---
 
