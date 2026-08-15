@@ -1,0 +1,100 @@
+Python 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+===== RESTART: H:/Intern Task/Internship 3/week 3/Day 11/awareness_quiz.py =====
+============================================================
+     SOCIAL ENGINEERING AWARENESS QUIZ
+============================================================
+
+Q1: An email asks you to verify your password through a link. What should you do?
+A) Click the link
+B) Contact IT through an official channel
+C) Reply with your password
+Your answer (A/B/C): B
+✓ Correct!
+
+Q2: You find an unknown USB drive in a parking lot. What should you do?
+A) Plug it into your computer
+B) Give it to security or IT
+C) Open the files on another computer
+Your answer (A/B/C): B
+✓ Correct!
+
+Q3: A caller claims to be from IT and asks for your password. What should you do?
+A) Provide the password
+B) Ask for their personal number
+C) Refuse and verify through official IT channels
+Your answer (A/B/C): C
+✓ Correct!
+
+Q4: Which is a common phishing warning sign?
+A) Urgent request for sensitive information
+B) Normal internal announcement
+C) Expected meeting reminder
+Your answer (A/B/C): A
+✓ Correct!
+
+Q5: What does MFA provide?
+A) An additional authentication factor
+B) Free internet access
+C) Automatic antivirus protection
+Your answer (A/B/C): A
+✓ Correct!
+
+Q6: What should you do before clicking an unexpected link?
+A) Click it immediately
+B) Verify the sender and destination
+C) Forward it to everyone
+Your answer (A/B/C): B
+✓ Correct!
+
+Q7: What is social engineering?
+A) Manipulating people to obtain information or perform actions
+B) Installing a printer
+C) Designing a website
+Your answer (A/B/C): A
+✓ Correct!
+
+Q8: A suspicious message asks you to keep a request secret. What is the safest action?
+A) Follow the instructions
+B) Verify the request independently
+C) Delete your security software
+Your answer (A/B/C): A
+✗ Incorrect.
+Explanation: Secrecy and pressure can be social-engineering warning signs.
+
+Q9: What is smishing?
+A) SMS-based phishing
+B) Physical security testing
+C) Password encryption
+Your answer (A/B/C): A
+✓ Correct!
+
+Q10: What is vishing?
+A) Voice phishing
+B) Video encryption
+C) Virus scanning
+Your answer (A/B/C): A
+✓ Correct!
+
+Q11: Which action is safest when receiving an unexpected attachment?
+A) Open it immediately
+B) Verify the sender and attachment first
+C) Disable antivirus software
+Your answer (A/B/C): B
+✓ Correct!
+
+Q12: What is a good response to a suspicious account-reset request?
+A) Use the link in the message
+B) Contact the organization through its official website or number
+C) Share your login details
+Your answer (A/B/C): B
+✓ Correct!
+
+============================================================
+QUIZ COMPLETED
+============================================================
+Score: 11/12
+Percentage: 91.67%
+
+Score report saved as: score_report.json
