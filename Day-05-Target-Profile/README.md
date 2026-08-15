@@ -29,7 +29,7 @@
 * [Limitations](#limitations)
 * [Future Work](#future-work)
 * [Conclusion](#conclusion)
-* [Author & Contact](#author--contact)
+* [Author & Contact](#author-contact)
 
 ---
 <a name="overview"></a>
