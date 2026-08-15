@@ -163,6 +163,10 @@ Through this task, I learned:
 
 The Day 6 task successfully demonstrates the creation of personalized phishing-awareness email templates using Python. The project provides practical understanding of spear-phishing techniques while maintaining an ethical and controlled laboratory environment.
 
+---
+
+<a name="author-contact"></a>
+
 ## 👩‍💻 Author & Contact
 
 <p align="center">
