@@ -1,0 +1,24 @@
+DAY 13 — SIEM LOG ANALYSIS REPORT
+
+Project:
+SIEM Log Analysis for Social Engineering Attack Detection
+
+Log Source:
+Provided Sample Security Logs
+
+Detected Alerts:
+
+1. Brute Force Detection
+User: admin
+Failed Attempts: 3
+
+2. Suspicious Email Rule
+User: admin
+Event: EMAIL_RULE_CREATED
+Rule: forward_all
+
+Analysis:
+The Python parser successfully analyzed the sample security logs and identified repeated failed login attempts and a suspicious email-rule creation event.
+
+Status:
+Analysis Completed Successfully.

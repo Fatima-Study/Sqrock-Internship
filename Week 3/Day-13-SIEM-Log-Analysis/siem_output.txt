@@ -1,0 +1,21 @@
+Python 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+===== RESTART: H:/Intern Task/Internship 3/week 3/Day 13/siem_log_parser.py ====
+============================================================
+        SIEM LOG ANALYSIS
+============================================================
+
+Analyzing security logs...
+
+[ALERT] Brute force detected: admin (3 failed attempts)
+[ALERT] Suspicious email rule created by: admin
+
+============================================================
+ANALYSIS SUMMARY
+============================================================
+Failed login events: 3
+Suspicious email rules: 1
+Alerts generated: 2
+
+Log analysis completed successfully!
