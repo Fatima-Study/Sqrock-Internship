@@ -250,8 +250,8 @@ Example:
 ```json
 {
     "total_questions": 12,
-    "correct_answers": 10,
-    "percentage": 83.33
+    "correct_answers": 11,
+    "percentage": 91.67
 }
 ```
 
