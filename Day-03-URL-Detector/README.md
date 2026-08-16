@@ -27,11 +27,11 @@
 - [Future Work](#future-work)
 - [Ethical Use](#ethical-use)
 - [Learning Outcomes](#learning-outcomes)
-- [Author & Contact](#author--contact)
+- [Author & Contact](#author-contact)
 
 
 ---
-
+<a name="overview"></a>
 # 📌 Overview
 
 The **Phishing URL Risk Detector** is a Python-based cybersecurity project developed as part of **Day 3 of the Cybersecurity Internship**.
@@ -41,13 +41,13 @@ The tool analyzes URLs for common suspicious characteristics associated with phi
 The detector was tested using multiple sample URLs to verify that different suspicious characteristics produced different risk levels.
 
 ---
-
+<a name="objective"></a>
 # 🎯 Objective
 
 The objective of this project is to understand common characteristics of phishing URLs and develop a simple rule-based Python tool that can identify suspicious indicators and assign an appropriate risk level.
 
 ---
-
+<a name="problem-statement"></a>
 # 📝 Problem Statement
 
 Phishing attacks often use deceptive URLs to trick users into visiting malicious websites or providing sensitive information.
@@ -57,7 +57,7 @@ A URL can contain several warning signs, such as the absence of HTTPS, suspiciou
 This project provides a simple automated approach for identifying these indicators and generating a risk score.
 
 ---
-
+<a name="tools-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology           | Purpose                                  |
@@ -68,7 +68,7 @@ This project provides a simple automated approach for identifying these indicato
 | **Rule-Based Analysis**     | Phishing indicator detection             |
 
 ---
-
+<a name="methods"></a>
 # ⚙️ Methods
 
 The detector follows these steps:
@@ -83,7 +83,7 @@ The detector follows these steps:
 8. Display the detected indicators and final result.
 
 ---
-
+<a name="detection-rules"></a>
 # 🚨 Detection Rules
 
 | Suspicious Indicator    |                    Score |
@@ -107,7 +107,7 @@ bank
 paypal
 ```
 ---
-
+<a name="risk-classification"></a>
 ## 📊 Risk Classification
 
 | Risk Level         |   Score |
@@ -119,7 +119,7 @@ paypal
 A **0% score** means that none of the implemented suspicious indicators were detected.
 
 ---
-
+<a name="project-structure"></a>
 # 📂 Project Structure
 
 The Day 3 project contains the Python source code, testing evidence, and project documentation.
@@ -143,7 +143,7 @@ Day-03-Phishing-URL-Detector/
 | **README.md**                | Complete project documentation            |
 
 ---
-
+<a name="key-insights"></a>
 # 💡 Key Insights
 
 * Phishing URLs can contain multiple suspicious characteristics.
@@ -154,7 +154,7 @@ Day-03-Phishing-URL-Detector/
 * Rule-based detection provides a simple approach for cybersecurity awareness.
 
 ---
-
+<a name="output"></a>
 # 🖥️ Output
 
 The detector was tested using **10 sample URLs**.
@@ -170,7 +170,7 @@ The program successfully generated risk scores and corresponding risk classifica
 URLs containing multiple suspicious indicators received higher scores.
 
 ---
-
+<a name="how-to-run-this-project"></a>
 # ▶️ How to Run This Project
 
 ### 1. Clone the Repository
@@ -198,7 +198,7 @@ Enter the sample URLs when prompted. The program will display the:
 * Detected Indicators
 
 ---
-
+<a name="limitations"></a>
 # ⚠️ Limitations
 
 * The detector uses predefined rules rather than machine learning.
@@ -208,7 +208,7 @@ Enter the sample URLs when prompted. The program will display the:
 * The tool is intended for basic analysis and cybersecurity awareness.
 
 ---
-
+<a name="future-work"></a>
 # 🚀 Future Work
 
 * Add machine-learning-based URL classification.
@@ -219,7 +219,7 @@ Enter the sample URLs when prompted. The program will display the:
 * Add a larger and more diverse URL dataset.
 
 ---
-
+<a name="ethical-use"></a>
 # 🔐 Ethical Use
 
 This project is developed for **educational and authorized cybersecurity purposes only**.
@@ -227,7 +227,7 @@ This project is developed for **educational and authorized cybersecurity purpose
 The detector should be used for security awareness, testing, and analysis of authorized or sample URLs. It should not be used to facilitate phishing campaigns or other malicious activities.
 
 ---
-
+<a name="learning-outcomes"></a>
 # 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -241,7 +241,7 @@ Through this project, I gained practical experience in:
 * Documenting security projects professionally.
 
 ---
-
+<a name="author-contact"></a>
 # 👩‍💻 Author & Contact
 
 <p align="center">
