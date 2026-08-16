@@ -30,9 +30,10 @@
 - [Limitations](#limitations)
 - [Future Work](#future-work)
 - [Conclusion](#conclusion)
-- [Author & Contact](#author--contact)
----
+- [Author & Contact](#author-contact)
 
+---
+<a name="overview"></a>
 # 📌 Overview
 
 Day 2 focused on understanding **Email Harvesting** as part of passive reconnaissance.
@@ -44,7 +45,7 @@ An authorized local practice webpage containing dummy email addresses was used t
 The scanner successfully identified **three dummy email addresses** from the practice webpage.
 
 ---
-
+<a name="objective"></a>
 # 🎯 Objective
 
 The objective of this project was to understand the concept of **email harvesting** and develop a Python-based tool to identify publicly visible email addresses from an authorized practice webpage.
@@ -58,7 +59,7 @@ The task provided practical experience with:
 * Passive reconnaissance
 
 ---
-
+<a name="scope"></a>
 # 🔐 Scope
 
 The assessment was limited to an **authorized local practice webpage** created specifically for cybersecurity training.
@@ -68,7 +69,7 @@ The activity focused only on identifying email addresses present in the webpage 
 No unauthorized websites, systems, or personal information were targeted.
 
 ---
-
+<a name="tools-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology            | Purpose                                  |
@@ -80,7 +81,7 @@ No unauthorized websites, systems, or personal information were targeted.
 | **Command Prompt**           | Executing and testing the Python script  |
 
 ---
-
+<a name="methodology"></a>
 # 🔬 Methodology
 
 The Email Harvesting Tool follows this workflow:
@@ -130,7 +131,7 @@ The Email Harvesting Tool follows this workflow:
 7. Verified the results through terminal output.
 
 ---
-
+<a name="project-structure"></a>
 ### 📂 Project Structure
 
 ```text
@@ -144,7 +145,7 @@ Day-2-Email-Harvesting/
 ```
 
 ---
-
+<a name="information-collected"></a>
 ### 📊 Information Collected
 
 The scanner identified publicly visible email addresses from the authorized practice webpage.
@@ -159,7 +160,7 @@ The collected information consisted only of **dummy email addresses created for 
 * Total Number of Emails
 
 ---
-
+<a name="key-insights"></a>
 # 💡 Key Insights
 
 * Email addresses can be identified from publicly accessible webpage content.
@@ -170,7 +171,7 @@ The collected information consisted only of **dummy email addresses created for 
 * Publicly exposed contact information may increase an organization's reconnaissance footprint.
 
 ---
-
+<a name="output"></a>
 # 🖥️ Output
 
 The Email Harvesting Tool successfully retrieved the authorized local practice webpage and identified **three dummy email addresses**.
@@ -194,7 +195,7 @@ Total Emails Found: 3
 Email harvesting completed successfully.
 ```
 ---
-
+<a name="how-to-run-this-project"></a>
 # ▶️ How to Run This Project
 
 ### 1. Clone the Repository
@@ -244,7 +245,7 @@ Email addresses can provide useful information during cybersecurity reconnaissan
 Organizations should carefully consider what contact information is publicly exposed and apply appropriate security awareness measures.
 
 ---
-
+<a name="ethical-considerations"></a>
 # ⚖️ Ethical Considerations
 
 This activity was performed in a **controlled and authorized cybersecurity training environment**.
@@ -256,7 +257,7 @@ This activity was performed in a **controlled and authorized cybersecurity train
 * The activity was limited to the authorized local practice environment.
 
 ---
-
+<a name="limitations"></a>
 # ⚠️ Limitations
 
 1. The scanner only identifies email addresses present in the retrieved webpage content.
@@ -266,7 +267,7 @@ This activity was performed in a **controlled and authorized cybersecurity train
 5. The assessment was limited to an authorized local practice environment.
 
 ---
-
+<a name="future-work"></a>
 # 🚀 Future Work
 
 * Add support for scanning multiple authorized webpages.
@@ -277,7 +278,7 @@ This activity was performed in a **controlled and authorized cybersecurity train
 * Develop a graphical user interface.
 
 ---
-
+<a name="conclusion"></a>
 # ✅ Conclusion
 
 The Day 2 task was successfully completed by developing and testing a Python-based **Email Harvesting Tool**.
@@ -285,7 +286,7 @@ The Day 2 task was successfully completed by developing and testing a Python-bas
 The tool retrieved webpage content and successfully identified **three dummy email addresses using regular expressions**. The exercise demonstrated the basic role of email harvesting in passive reconnaissance and reinforced the importance of performing such activities only within an authorized environment.
 
 ---
-
+<a name="author-contact"></a>
 ## 👩‍💻 Author & Contact
 
 <p align="center">
