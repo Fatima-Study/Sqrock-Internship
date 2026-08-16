@@ -67,7 +67,7 @@ This project provides awareness scripts that help users recognize common warning
 | **Social Engineering Awareness** | Understanding common vishing techniques       |
 
 ---
-
+<a name="methodology"></a>
 # ⚙️ Methodology
 
 The script generator follows these steps:
