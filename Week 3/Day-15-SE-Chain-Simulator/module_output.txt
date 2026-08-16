@@ -1,0 +1,125 @@
+Python 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+======== RESTART: H:/Intern Task/Internship 3/week 3/Day 15/se_chain.py ========
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: osint
+
+[+] Launching osint module...
+
+--- OSINT MODULE ---
+Practice Domain: example.com
+Purpose: Passive information gathering
+Status: Simulation completed.
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: profile
+
+[+] Launching profile module...
+
+--- PROFILE MODULE ---
+name: Lab User
+role: Cybersecurity Trainee
+tech_stack: ['Python', 'GitHub']
+environment: Authorized Lab
+
+Profile generation completed.
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: phish
+
+[+] Launching phish module...
+
+--- PHISHING SCORE MODULE ---
+URL: https://example.com
+Phishing Risk Score: 0%
+Purpose: Awareness training only.
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: templete
+
+[-] Invalid choice.
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: ir
+
+[+] Launching ir module...
+
+--- INCIDENT RESPONSE MODULE ---
+Incident Type : phishing
+Severity      : HIGH
+
+Response Actions:
+[x] SIMULATION: Lock affected account
+[x] SIMULATION: Revoke active sessions
+[x] Notify SOC team
+[x] Preserve security logs
+[x] Quarantine suspicious email
+
+Incident response simulation completed.
+
+============================================================
+          SE CHAIN SIMULATOR
+       SQROCK CYBERSECURITY INTERNSHIP
+============================================================
+ [osint] Run passive OSINT on a practice domain
+ [profile] Build a sample target profile
+ [phish] Score a URL for phishing indicators
+ [template] Generate a phishing-awareness email
+ [ir] Trigger incident response workflow
+ [exit] Exit simulator
+
+Select module: exit
+
+Simulator closed.
