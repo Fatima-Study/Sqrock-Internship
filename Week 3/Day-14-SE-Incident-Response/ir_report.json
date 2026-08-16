@@ -1,0 +1,17 @@
+{
+    "incident": {
+        "type": "phishing",
+        "severity": "HIGH",
+        "user": "lab_user@example.com"
+    },
+    "actions": [
+        "SIMULATION: Lock user account",
+        "SIMULATION: Revoke active sessions",
+        "Notify SOC team",
+        "Preserve mail logs",
+        "Quarantine suspicious email",
+        "Block sender domain",
+        "Scan attachment in sandbox"
+    ],
+    "timestamp": "2026-08-16 00:34:33.170737"
+}

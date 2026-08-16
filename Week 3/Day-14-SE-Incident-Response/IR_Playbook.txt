@@ -1,0 +1,39 @@
+DAY 14 — SOCIAL ENGINEERING INCIDENT RESPONSE PLAYBOOK
+
+1. PREPARATION
+• Maintain security-awareness training.
+• Define incident-response responsibilities.
+• Maintain logging and communication procedures.
+
+2. IDENTIFICATION
+• Review phishing alerts.
+• Check suspicious login activity.
+• Analyze email and security logs.
+• Confirm incident type and severity.
+
+3. CONTAINMENT
+• Lock affected user account.
+• Revoke active sessions.
+• Quarantine suspicious email.
+• Block suspicious sender domain.
+• Preserve relevant logs.
+
+4. ERADICATION
+• Remove malicious email or content.
+• Scan suspicious attachments in a sandbox.
+• Reset affected credentials where required.
+• Remove unauthorized changes.
+
+5. RECOVERY
+• Restore normal account access after verification.
+• Monitor affected accounts.
+• Confirm systems are operating normally.
+
+6. LESSONS LEARNED
+• Document the incident.
+• Identify the root cause.
+• Improve security controls.
+• Provide additional user awareness training.
+
+DOCUMENTATION
+All incident details, actions, timestamps, and findings should be documented for future analysis and reporting.

@@ -1,0 +1,25 @@
+Python 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+======= RESTART: H:/Intern Task/Internship 3/week 3/Day 14/ir_response.py ======
+
+============================================================
+        INCIDENT RESPONSE TRIGGERED
+============================================================
+Time     : 2026-08-16 00:34:33.126813
+Type     : phishing
+Severity : HIGH
+User     : lab_user@example.com
+
+Actions Taken:
+ [x] SIMULATION: Lock user account
+ [x] SIMULATION: Revoke active sessions
+ [x] Notify SOC team
+ [x] Preserve mail logs
+ [x] Quarantine suspicious email
+ [x] Block sender domain
+ [x] Scan attachment in sandbox
+
+IR report saved: ir_report.json
+
+Incident response simulation completed successfully!
