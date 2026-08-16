@@ -56,7 +56,7 @@ Public developer profiles can contain useful information such as names, organiza
 This project provides a simple Python-based approach to collect selected publicly available GitHub profile information and organize it into a structured target profile.
 
 ---
-<a name="tools--technologies"></a>
+<a name="tools-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology        | Purpose                                |
