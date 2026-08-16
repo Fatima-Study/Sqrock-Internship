@@ -56,7 +56,7 @@ Vishing attacks may involve attackers impersonating IT support staff, bank offic
 This project provides awareness scripts that help users recognize common warning signs and follow safer verification practices.
 
 ---
-<a name="tool-and-technologies"></a>
+<a name="tools-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology                | Purpose                                       |
