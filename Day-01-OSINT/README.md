@@ -29,10 +29,10 @@
 * [Limitations](#limitations)
 * [Future Work](#future-work)
 * [Conclusion](#conclusion)
-* [Author & Contact](#author--contact)
+* [Author & Contact](#author-contact)
 
 ---
-
+<a name="overview"></a>
 # 📌 Overview
 
 Day 1 focused on understanding **Open-Source Intelligence (OSINT)** and **Passive Reconnaissance** using Python.
@@ -42,7 +42,7 @@ A Python-based OSINT Scanner was developed to collect publicly available informa
 This project provided practical experience in passive information gathering and demonstrated how publicly available information can support cybersecurity reconnaissance.
 
 ---
-
+<a name="objective"></a>
 # 🎯 Objective
 
 The objective of this project was to understand the fundamentals of **OSINT and passive reconnaissance** by developing a Python-based scanner capable of:
@@ -53,7 +53,7 @@ The objective of this project was to understand the fundamentals of **OSINT and 
 * Displaying the collected information
 
 ---
-
+<a name="target-domain"></a>
 # 🌐 Target Domain
 
 **Practice Domain:** `example.com`
@@ -61,7 +61,7 @@ The objective of this project was to understand the fundamentals of **OSINT and 
 The domain was selected as a practice domain for this authorized educational cybersecurity exercise.
 
 ---
-
+<a name="tools-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology  | Purpose                                    |
@@ -73,7 +73,7 @@ The domain was selected as a practice domain for this authorized educational cyb
 | IP Geolocation API | Obtaining approximate location information |
 
 ---
-
+<a name="Methodology"></a>
 # 🔬 Methodology
 
 The OSINT Scanner follows a passive reconnaissance workflow:
@@ -96,7 +96,7 @@ Display OSINT Results
         ▼
 Scan Completed Successfully
 ```
-
+<a name="process"></a>
 ### Process
 
 1. The authorized domain is provided to the scanner.
@@ -107,7 +107,7 @@ Scan Completed Successfully
 6. The collected information is displayed in the terminal.
 
 ---
-
+<a name="project-structure"></a>
 # 📂 Project Structure
 
 ```text
@@ -121,7 +121,7 @@ Day-1-OSINT/
 ```
 
 ---
-
+<a name="information-collected"></a>
 # 📊 Information Collected
 
 The OSINT Scanner collects the following publicly available information:
@@ -133,7 +133,7 @@ The OSINT Scanner collects the following publicly available information:
 * **Approximate Country**
 
 ---
-
+<a name="key-insights"></a>
 # 💡 Key Insights
 
 * OSINT can provide useful information through publicly available sources.
@@ -144,7 +144,7 @@ The OSINT Scanner collects the following publicly available information:
 * Passive reconnaissance is an important initial step in cybersecurity analysis.
 
 ---
-
+<a name="output"></a>
 # 🖥️ Output
 
 The Python OSINT Scanner successfully displayed the domain name, registrar, IP address, city, and country.
@@ -165,7 +165,7 @@ Country: [Approximate Country]
 OSINT Scan Completed Successfully.
 ```
 ---
-
+<a name="how-to-run-this-project"></a>
 # ▶️ How to Run This Project
 
 ### 1. Clone the Repository
@@ -197,7 +197,7 @@ python osint_scanner.py
 The program will display the domain name, WHOIS registrar, IP address, approximate city, and country in the terminal.
 
 ---
-
+<a name="ethical-considerations"></a>
 # ⚖️ Ethical Considerations
 
 This exercise was performed for **educational purposes** using an authorized practice domain.
@@ -209,7 +209,7 @@ This exercise was performed for **educational purposes** using an authorized pra
 * The exercise was performed within the authorized scope of the internship.
 
 ---
-
+<a name="limitations"></a>
 # ⚠️ Limitations
 
 1. WHOIS information may be limited or privacy-protected.
@@ -219,7 +219,7 @@ This exercise was performed for **educational purposes** using an authorized pra
 5. The assessment was limited to passive information gathering.
 
 ---
-
+<a name="future-work"></a>
 # 🚀 Future Work
 
 * Add subdomain enumeration.
@@ -230,13 +230,13 @@ This exercise was performed for **educational purposes** using an authorized pra
 * Develop a graphical user interface.
 
 ---
-
+<a name="conclusion"></a>
 # ✅ Conclusion
 
 The Day 1 task successfully demonstrated the basic concepts of **OSINT and passive reconnaissance using Python**. The developed scanner retrieved WHOIS, IP address, and approximate geolocation information, providing practical experience in collecting publicly available information for cybersecurity analysis.
 
 ---
-
+<a name="author-contact"></a>
 ## 👩‍💻 Author & Contact
 
 <p align="center">
