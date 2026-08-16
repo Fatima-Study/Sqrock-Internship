@@ -27,10 +27,10 @@
 * [Limitations](#limitations)
 * [Future Work](#future-work)
 * [Conclusion](#conclusion)
-* [Author & Contact](#author--contact)
+* [Author & Contact](#author-contact)
 
 ---
-
+<a name="overview"></a>
 # 📌 Overview
 
 The **Vishing & Smishing Awareness** project is a Python-based cybersecurity awareness project developed as part of **Day 4 of the Cybersecurity Internship**.
@@ -40,13 +40,13 @@ The project focuses on **vishing awareness** by generating realistic but safe aw
 The generated scripts provide examples of suspicious situations along with common red flags and appropriate safety guidance.
 
 ---
-
+<a name="objective"></a>
 # 🎯 Objective
 
 The objective of this project is to understand common social-engineering techniques used in vishing and improve cybersecurity awareness by generating safe training scenarios that demonstrate how users can identify and respond to suspicious calls.
 
 ---
-
+<a name="problem-statement"></a>
 # 📝 Problem Statement
 
 Social-engineering attacks can manipulate users into revealing sensitive information or performing unsafe actions.
@@ -56,7 +56,7 @@ Vishing attacks may involve attackers impersonating IT support staff, bank offic
 This project provides awareness scripts that help users recognize common warning signs and follow safer verification practices.
 
 ---
-
+<a name="tool-and-technologies"></a>
 # 🛠️ Tools and Technologies
 
 | Tool / Technology                | Purpose                                       |
@@ -83,7 +83,7 @@ The script generator follows these steps:
 9. Display the generated awareness script.
 
 ---
-
+<a name="awareness-scenarios"></a>
 # 📞 Awareness Scenarios
 
 The program successfully generated three awareness scripts.
@@ -150,7 +150,7 @@ The caller claims that an important document requires immediate verification.
 Stop the call and independently verify the request before sharing any information.
 
 ---
-
+<a name="project-structure"></a>
 # 📂 Project Structure
 
 The Day 4 project contains the Python source code, output evidence, project documentation, and license file.
@@ -165,6 +165,7 @@ Day-04-Vishing-Smishing/
 └── README.md
 ```
 ---
+<a name="file-description"></a>
 ### 📁 File Description
 
 | File                     | Description                                         |
@@ -177,7 +178,7 @@ Day-04-Vishing-Smishing/
 | `LICENSE`                | MIT License for the project                         |
 
 ---
-
+<a name="key-insights"></a>
 # 💡 Key Insights
 
 * Vishing attacks often rely on impersonation and urgency.
@@ -188,7 +189,7 @@ Day-04-Vishing-Smishing/
 * Avoiding pressure-based decisions can reduce the risk of social-engineering attacks.
 
 ---
-
+<a name="output"></a>
 # 🖥️ Output
 
 The program successfully generated **three vishing awareness scripts** covering:
@@ -200,7 +201,7 @@ The program successfully generated **three vishing awareness scripts** covering:
 Each script included an **opener, hook, red flags, and awareness message**.
 
 ---
-
+<a name="how-to-run-this-project"></a>
 # ▶️ How to Run This Project
 
 ### 1. Clone the Repository
@@ -226,14 +227,14 @@ python se_script_generator.py
 The program will generate and display multiple awareness scenarios containing the caller role, pretext, hook, red flags, and awareness message.
 
 ---
-
+<a name="security-relevance"></a>
 # 🛡️ Security Relevance
 
 Vishing is a form of social engineering that uses voice communication to manipulate victims.
 This project demonstrates common warning signs and provides practical awareness messages that can help users identify suspicious calls and avoid sharing sensitive information.
 
 ---
-
+<a name="ethical-considerations"></a>
 # 🔐 Ethical Considerations
 
 This project is developed strictly for **educational and cybersecurity awareness purposes**.
@@ -241,7 +242,7 @@ This project is developed strictly for **educational and cybersecurity awareness
 The generated scenarios are intended for training and awareness. They should not be used to impersonate real organizations, deceive individuals, or conduct real-world social-engineering attacks.
 
 ---
-
+<a name="limitations"></a>
 # ⚠️ Limitations
 
 * The project generates predefined awareness scenarios.
@@ -251,7 +252,7 @@ The generated scenarios are intended for training and awareness. They should not
 * Effectiveness depends on user awareness and proper security practices.
 
 ---
-
+<a name="future-work"></a>
 # 🚀 Future Work
 
 * Add customizable awareness scenarios.
@@ -262,7 +263,7 @@ The generated scenarios are intended for training and awareness. They should not
 * Generate automated awareness reports.
 
 ---
-
+<a name="conclusion"></a>
 # ✅ Conclusion
 
 The **Vishing & Smishing Awareness** project successfully demonstrated how Python can be used to generate cybersecurity awareness scenarios.
@@ -270,7 +271,7 @@ The **Vishing & Smishing Awareness** project successfully demonstrated how Pytho
 The project highlights common social-engineering red flags such as impersonation, urgency, and requests for sensitive information, helping users develop safer responses to suspicious communications.
 
 ---
-
+<a name="author-contact"></a>
 # 👩‍💻 Author & Contact
 
 <p align="center">
