@@ -1,6 +1,6 @@
-# 🔐 SQROCK IT SOLUTION — CYBERSECURITY INTERNSHIP
+# 🛡️ SQROCK IT SOLUTION — CYBERSECURITY INTERNSHIP
 
-## Day 17 — Local Network Port & Service Scanning
+# 🌐 Day 17 — Local Network Port & Service Scanning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Socket](https://img.shields.io/badge/Module-Socket-orange)
@@ -36,7 +36,7 @@
 - [Project Structure](#-project-structure)
 - [Evidence](#-evidence)
 - [Conclusion](#-conclusion)
-- [Author & Contact](#-author--contact)
+- [Author & Contact](#-author-contact)
 
 ---
 
@@ -299,7 +299,7 @@ The Python-based scanner tested ports **22, 80, 443, 5432, and 8080** on `127.0.
 The task provided practical understanding of basic TCP socket connections, port status identification, local service visibility, and network mapping.
 
 ---
-
+<a name="author-contact"></a>
 ## 👩‍💻 Author & Contact
 
 <p align="center">
