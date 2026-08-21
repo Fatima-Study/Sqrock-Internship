@@ -36,7 +36,7 @@
 - [Project Structure](#-project-structure)
 - [Evidence](#-evidence)
 - [Conclusion](#-conclusion)
-- [Author & Contact](#-author-contact)
+- [Author & Contact](#author-contact)
 
 ---
 
