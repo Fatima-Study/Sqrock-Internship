@@ -1,4 +1,4 @@
-# SQROCK IT SOLUTION — CYBERSECURITY INTERNSHIP
+# 🛡️ SQROCK IT SOLUTION — Cybersecurity Internship
 
 # 🔐 Day 16 — HTTP Security Header Analysis
 
@@ -32,7 +32,6 @@
 - [Project Structure](#-project-structure)
 - [Evidence](#-evidence)
 - [Conclusion](#-conclusion)
-- [License](#-license)
 
 ## 📌 Overview
 
