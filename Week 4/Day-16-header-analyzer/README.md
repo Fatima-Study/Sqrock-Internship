@@ -3,10 +3,13 @@
 # 🔐 Day 16 — HTTP Security Header Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Security](https://img.shields.io/badge/Focus-Web%20Security-red)
+![Requests](https://img.shields.io/badge/Library-Requests-orange)
+![HTTP](https://img.shields.io/badge/Protocol-HTTP-informational)
+![Web Security](https://img.shields.io/badge/Focus-Web%20Security-red)
+![Local Lab](https://img.shields.io/badge/Environment-Local%20Lab-purple)
+![Task](https://img.shields.io/badge/Task-Day%2016-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 </p>
