@@ -1,6 +1,6 @@
 # 🛡️ SQROCK IT SOLUTION — CYBERSECURITY INTERNSHIP
 
-## 🐳 Day 19 — Docker Container Misconfiguration Scanner
+# 🐳 Day 19 — Docker Container Misconfiguration Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Docker](https://img.shields.io/badge/Technology-Docker-2496ED?logo=docker)
