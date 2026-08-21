@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ---
-
+---
 </p>
 
 <p align="center">
@@ -35,6 +35,9 @@
 - [Project Structure](#-project-structure)
 - [Evidence](#-evidence)
 - [Conclusion](#-conclusion)
+- [Author & Contact](#author-contact)
+
+---
 
 ## 📌 Overview
 
@@ -46,6 +49,8 @@ The analyzer checks important HTTP security headers and reports whether they are
 
 > ⚠️ **Safety Notice:** This project is intended for authorized and isolated local lab environments only.
 
+---
+
 ## 🎯 Objective
 
 The main objectives of this task are:
@@ -56,6 +61,8 @@ The main objectives of this task are:
 - Analyze the role of Content Security Policy (CSP).
 - Generate an automated security analysis output.
 
+---
+
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
@@ -63,6 +70,8 @@ The main objectives of this task are:
 - **HTTP**
 - **Local HTTP Server**
 - **Command Prompt**
+
+---
 
 ## 🔍 Security Headers Checked
 
@@ -72,6 +81,8 @@ The main objectives of this task are:
 | `Content-Security-Policy` | Restricts untrusted scripts and resources |
 | `X-Frame-Options` | Helps reduce clickjacking risks |
 | `X-Content-Type-Options` | Helps prevent MIME-type sniffing |
+
+---
 
 ## ⚙️ Methodology
 
@@ -107,6 +118,7 @@ Install the required `requests` library:
 ```bash
 py -m pip install requests
 ```
+---
 
 ## ▶️ Execution
 
@@ -127,6 +139,7 @@ To save the execution output:
 ```bash
 py header_analyzer.py > output.txt
 ```
+---
 
 ## 📊 Testing & Results
 
@@ -156,6 +169,8 @@ The analyzer detected the following missing security headers:
 | X-Frame-Options           | ⚠️ Missing |
 | X-Content-Type-Options    | ⚠️ Missing |
 
+---
+
 ## 🛡️ CSP Analysis
 
 **Content-Security-Policy (CSP)** is an HTTP security mechanism that helps control which scripts and other resources a browser is allowed to load.
@@ -170,6 +185,8 @@ A properly configured CSP can reduce the risk of malicious script execution and 
 * Configure **X-Content-Type-Options** with `nosniff`.
 * Perform regular HTTP security header assessments.
 
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -181,6 +198,7 @@ Day-16-header-analyzer/
 |
 └── README.md
 ```
+---
 
 ## 📸 Evidence
 
@@ -192,12 +210,15 @@ The project includes evidence of:
 * Missing security header detection
 * Saved execution output
 
+---
 ## ✅ Conclusion
 
 The HTTP Security Header Analysis task was successfully completed in an authorized local environment.
 
 The Python analyzer successfully connected to the local HTTP server, received an HTTP 200 response, and checked four important HTTP security headers. The task demonstrated how Python automation can support defensive web application security assessments.
 
+---
+<a name="author-contact"></a>
 ## 👩‍💻 Author & Contact
 
 <p align="center">
